@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://www.wwhzz.top:4000/zz
+    username: root
+    password: 123
